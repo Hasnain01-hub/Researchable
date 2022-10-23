@@ -1,0 +1,25 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 100px;
+  min-height: 100vh;
+}
+
+.footer {
+  /*
+  left: 0;
+  bottom: 0;
+  height: 100px; */
+  width: 100%;
+  position: fixed;
+  top: 100%;
+  bottom: 0;
+  /* margin-bottom: -34vh; */
+}
