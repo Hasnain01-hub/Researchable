@@ -1,2 +1,0 @@
-# Cresendo Hack
-
